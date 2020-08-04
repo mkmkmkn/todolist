@@ -1,0 +1,22 @@
+
+  .ToDoListItem {
+    border: 1px solid rgb(160, 0, 0);
+    margin: 12px;
+    border-radius: 10px;
+    width: 300px;
+    background-color: white;
+    padding: 4px 2px;
+  }
+  
+  .ToDoListItem-title {
+    font-size: 18px;
+    margin: 0 8px 4px;
+    border-bottom: 1px solid #333;
+    text-align: left;
+    padding: 4px 8px;
+  }
+  
+  .ToDoListItem-description {
+    word-wrap: break-word;
+    padding: 8px;
+  }
